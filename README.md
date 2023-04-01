@@ -2,6 +2,7 @@
 - 👀 I’m interested in quantitative research in the social sciences
 - 🌱 I’m currently working on my doctorate
 - I use code to solve research problems, predominantly in R and C++, as well as for fun!
+- The code posted here is stuff I feel might be helpful for others, rather than containing the full codebase of all my projects.
 
 <!---
 alissalissa/alissalissa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
